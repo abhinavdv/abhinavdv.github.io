@@ -604,7 +604,14 @@ progress {
 
 .img-fluid {
   max-width: 100%;
-  height: auto;
+  height: 400px;
+  
+}
+
+.img-propic{
+  max-width: 300px;
+  max-height: 500px;
+  border-radius: 50%;
 }
 
 .img-thumbnail {
